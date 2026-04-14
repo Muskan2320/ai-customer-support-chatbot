@@ -1,4 +1,7 @@
-# 🤖 IAT Networks AI Chatbot (RAG-based)
+# 🤖 IAT Networks AI Chatbot
+
+🚀 **Access the live chatbot here:**  
+👉 https://ai-customer-chatbot.streamlit.app/
 
 This project is a Retrieval-Augmented Generation (RAG) based AI chatbot built using data from the IAT Networks website.
 
