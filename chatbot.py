@@ -92,11 +92,11 @@ qa_chain = ConversationalRetrievalChain.from_llm(
 def handle_query(query):
     q = query.lower()
 
+    if q.strip() in ["hi", "hello", "hey"]:
+        return "Hello! I’m Ira. How can I assist you today?"
+
     if any(word in q for word in ["thank", "thanks", "thank you"]):
         return "You're welcome! Let me know if you need anything else."
-
-    if any(word in q for word in ["hi", "hello", "hey"]):
-        return "Hello! I’m Ira. How can I assist you today?"
 
     if any(word in q for word in ["bye", "goodbye"]):
         return "Goodbye! Feel free to reach out anytime."
