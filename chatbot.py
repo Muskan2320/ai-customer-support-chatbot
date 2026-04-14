@@ -7,12 +7,16 @@ from data_loader import load_documents
 from vector_store import create_or_load_vectorstore
 from memory import get_memory
 from functools import lru_cache
+import streamlit as st
 
 # ----------------------------
 # Load environment variables
 # ----------------------------
 load_dotenv()
 groq_api_key = os.getenv("GROQ_API_KEY")
+
+if not groq_api_key:
+    groq_api_key = st.secrets["GROQ_API_KEY"]
 
 # ----------------------------
 # Memory (last 5 turns)
