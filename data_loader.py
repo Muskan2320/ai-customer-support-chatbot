@@ -104,4 +104,16 @@ def load_documents(path="iat_data.json"):
             metadata={"type": "privacy", "section": key}
         ))
 
+    contact = data["contact"]
+
+    docs.append(Document(
+        page_content=f"IAT Networks is located at {contact['address']}.",
+        metadata={"type": "contact", "field": "address"}
+    ))
+
+    docs.append(Document(
+        page_content=f"You can contact IAT Networks via phone at {contact['phone']} or email at {contact['email']}.",
+        metadata={"type": "contact", "field": "phone&mail"}
+    ))
+
     return docs, data
