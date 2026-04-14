@@ -108,7 +108,7 @@ def load_documents(path="iat_data.json"):
 
     docs.append(Document(
         page_content=f"IAT Networks is located at {contact['address']}.",
-        metadata={"type": "address"}
+        metadata={"type": "location_address"}
     ))
 
     docs.append(Document(
