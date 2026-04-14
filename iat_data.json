@@ -1,0 +1,125 @@
+{
+    "company": {
+        "name": "IAT Networks",
+        "tagline": "Best Consulting services in Vellore, Tamilnadu",
+        "description": "We provide comprehensive BPO solutions, I.T services and workforce solutions globally."
+    },
+    "contact": {
+        "email": "hr@iatnetworks.com",
+        "phone": "+917358834638",
+        "address": "Katpadi, Vellore, Tamilnadu - 632007",
+        "working_hours": "Monday - Saturday, 9am - 5pm"
+    },
+    "homepage": {
+    "intro": "We specialize in delivering reliable and scalable hiring solutions tailored to the evolving needs of businesses across industries.",
+    "why_us": [
+    "Experienced & Trusted",
+    "Cost Effective",
+    "Trained Professionals",
+    "Reliable Service",
+    "Best Consultancy in Vellore",
+    "Team Collaboration",
+    "Strategic Planning",
+    "Expert Consultation"
+    ],
+    "why_choose_us": {
+    "heading": "Connecting organisations with the right talent",
+    "description": "We follow a quality-driven and transparent process, focused on client satisfaction and building professional relationships. We uphold the highest standards of integrity and professionalism in everything we do.",
+    "points": [
+        "Become our partner",
+        "We listen to your feedback",
+        "We focus on your success",
+        "Focus on quality not quantity"
+    ]
+    },
+
+    "clients": [
+    "EOS Globe",
+    "marketsof",
+    "Crown Inspection & Engineering Services India PVT LTD",
+    "ison experience pvt ltd"
+    ]
+
+    },
+    "about": {
+        "founder": "Ishwarya S",
+        "founded": "February 2025",
+        "story": "Founded in February 2025 by Ishwarya S, IAT Networks was built on a vision to bridge the gap between talent and technology. What began as a regional initiative in Vellore has quickly grown into a global enterprise offering a comprehensive range of IT, BPO, and resource outsourcing services.",
+        "founder_contact": "ishwarya@iatnetworks.com",
+        "founder_education": "Computer Science postgraduate from Thiruvalluvar University (2015-2017). Passionate about technology, digital solutions, and business growth, aiming to become a successful entrepreneur.",
+        "mission": "To empower businesses with smart, scalable, and reliable technology solutions that simplify operations and accelerate growth.",
+        "vision": "To become a globally trusted partner in IT services and workforce solutions, recognized for innovation, agility, and excellence."
+    },
+    "services": [
+        {
+            "name": "BPO & Customer Support",
+            "description": "BPO service involve outsourcing business tasks to a third-party company. These services include customer support, data entry, and technical support. BPO helps businesses reduce operational costs and improve efficiency.",
+            "details": [
+                "Customer Service",
+                "Call center",
+                "Technical support",
+                "Back-office operations",
+                "HR & payroll service",
+                "Finance & accounting support",
+                "Email & chat support"
+            ]
+        },
+        {
+            "name": "Digital Marketing",
+            "description": "Digital marketing services help businesses promote their products or services through online platforms. It includes strategies like SEO, social media marketing, and paid advertising. These services help increase website traffic, brand awareness, generate leads, and improve customer engagement.",
+            "details": [
+                "Website Creation",
+                "Social media marketing",
+                "Email marketing",
+                "Google Ads",
+                "Lead generation",
+                "Customer engagement",
+                "Sales promotion"
+            ]
+        },
+        {
+            "name": "Recruitment & Staffing",
+            "description": "We provide reliable and efficient recruitment solutions to connect organizations with skilled professionals for growth and long-term success.",
+            "details": [
+                "Permanent Staffing",
+                "Temporary Staffing",
+                "Project-based deployment",
+                "HR Management",
+                "Healthcare & Medical support",
+                "Banking & Financial services"
+            ]
+        },
+        {
+            "name": "IT Services",
+            "description": "We offer IT services including hardware, software, and cloud solutions to support modern business infrastructure.",
+            "details": [
+                "Hardware & Software Solutions",
+                "Custom Software Development",
+                "Infrastructure Management",
+                "DevOps & Cloud Infrastructure",
+                "ServiceNow Solutions"
+            ]
+        }
+    ],
+    "privacy_policy": {
+        "who_we_are": "Website: https://iatnetworks.com",
+        "data_collected": [
+            "Name",
+            "Phone",
+            "Email"
+        ],
+        "why_collect": "Contact information and communication purposes",
+        "contact_links": [
+            "hr@iatnetworks.com",
+            "https://iatnetworks.com/contact-2/"
+        ],
+        "comments": "We collect data shown in comments form, IP address, and browser user agent string for spam detection. Gravatar service may receive anonymized email hash.",
+        "media": "Avoid uploading images with embedded location data (EXIF GPS). Visitors can extract location data from images.",
+        "cookies": "Cookies store user preferences, login details, and session data. Login cookies last 2 days, screen options 1 year, and 'Remember Me' lasts 2 weeks.",
+        "embedded_content": "Embedded content behaves as if visiting the external site and may collect data, use cookies, and track interaction.",
+        "data_sharing": "If password reset is requested, IP address is included in email.",
+        "data_retention": "Comments and metadata retained indefinitely. User profile data stored and editable by users/admins.",
+        "user_rights": "Users can request data export or deletion except where required for legal/security reasons.",
+        "data_processing": "Visitor comments may be checked through automated spam detection services."
+    }
+}
